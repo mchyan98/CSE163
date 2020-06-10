@@ -2,10 +2,8 @@
 ### By Jacob Chan, Michael Chyan, Michael Mok
 
 ## Instructions:
-* use this file for this file...
-* do this to do this...
-* run this file to get the results
-
+* Run the ml_model.py file
+* Run part_2_data_cleaning.py file
 
 ## Project Setup:
 ### Datasets
@@ -29,20 +27,3 @@ In this project we used:
 * matplotlib
 * seaborn
 * os
-
-# DELETE THIS
-
-This file is called a `README.md`. The `md` filetype is for Markdown files.
-Markdown is really great because it allows you to add some simple formatting to
-your document by just typing some extra characters! Whenever you make a code
-repository on websites like GitHub or GitLab, they display the contents of
-your `README.md`.
-
-Your `README.md` should include:
-* You should write instructions for us to run your project to reproduce your
-results. Tell us which Python modules to run to get your results and anything
-else we need to do to run them.
-* If there is anything we need to do to set up your project, like install
-libraries or how to download your data (if you did not submit it), give us
-instructions for how to do so.
-* Anything else we need to know about running your project!
