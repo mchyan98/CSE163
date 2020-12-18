@@ -16,6 +16,8 @@ This [dataset](https://www.kaggle.com/qks1lver/amex-nyse-nasdaq-stock-histories?
 
 This [dataset](https://finance.yahoo.com/quote/%5EGSPC/history?period1=1431561600&period2=1589414400&interval=1d&filter=history&frequency=1d) is for our personal interest because we wanted to extend our machine learning model all the way out to 2020 which is outside the scope of our main dataset. This required us to find another dataset to compare the overall trend of stocks in the S&P 500 to the S&P 500 index.
 
+Our [final report](https://github.com/michaelchyan/CSE163/blob/master/Final%20Report.pdf) can be found here and is where we explain our findings.
+
 ### Libraries
 
 In this project we used:
